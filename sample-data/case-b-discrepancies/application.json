@@ -1,0 +1,15 @@
+{
+  "case_id": "CASE-2026-002",
+  "applicant_name": "ABC Manufacturing Enterprises LLP",
+  "constitution": "Limited Liability Partnership",
+  "industry": "Textile Weaving & Garment Export",
+  "vintage_years": 4,
+  "requested_loan_amount": 4500000.0,
+  "requested_tenure_months": 48,
+  "declared_annual_revenue": 6000000.0,
+  "existing_monthly_obligations": 85000.0,
+  "primary_bank_account": "ICICI-00459201",
+  "gstin": "33AABCA4321R1Z8",
+  "pan": "AABCA4321R",
+  "status": "DOCUMENTS_UPLOADED"
+}

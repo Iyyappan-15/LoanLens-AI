@@ -1,0 +1,20 @@
+{
+  "document_id": "DOC-BANK-003",
+  "account_number": "SBI-33291048",
+  "bank_name": "State Bank of India",
+  "statement_period": "01-Oct-2025 to 31-Mar-2026",
+  "note": "Only 6 months of bank statements provided instead of mandatory 12 months.",
+  "total_credits": 1400000.0,
+  "total_debits": 1350000.0,
+  "closing_balance": 50000.0,
+  "inward_cheque_bounces": 1,
+  "outward_cheque_bounces": 0,
+  "transactions": [
+    {"transaction_id": "TXN-C-301", "date": "2025-10-14", "type": "CREDIT", "amount": 250000.0, "narration": "UPI-GRAIN-BUYER-DELHI", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-C-302", "date": "2025-11-20", "type": "CREDIT", "amount": 230000.0, "narration": "NEFT-WHEAT-MANDI-SETTLEMENT", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-C-303", "date": "2025-12-18", "type": "CREDIT", "amount": 210000.0, "narration": "NEFT-PULSES-ORDER-PUNJAB", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-C-304", "date": "2026-01-22", "type": "CREDIT", "amount": 240000.0, "narration": "RTGS-AGRO-TRADERS-DELHI", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-C-305", "date": "2026-02-15", "type": "CREDIT", "amount": 220000.0, "narration": "NEFT-MANDI-PROCEEDS", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-C-306", "date": "2026-03-20", "type": "CREDIT", "amount": 250000.0, "narration": "UPI-LOCAL-RETAILER-SETTLE", "category": "BUSINESS_RECEIPT"}
+  ]
+}

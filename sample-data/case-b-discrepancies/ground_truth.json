@@ -1,0 +1,28 @@
+{
+  "case_id": "CASE-2026-002",
+  "expected_risk_level": "HIGH",
+  "expected_discrepancies_count": 1,
+  "expected_anomalies_count": 2,
+  "reconciliation_variance_percentage": 27.58,
+  "policy_status": "FAIL_TRIGGER_CREDIT_COMMITTEE",
+  "cam_recommendation": "REQUIRES_MATERIAL_CLARIFICATION",
+  "key_findings": [
+    {
+      "finding_title": "Material Revenue Reconciliation Variance",
+      "claimed_turnover": 5800000.0,
+      "bank_verified_credits": 4200000.0,
+      "shortfall": 1600000.0,
+      "shortfall_percentage": 27.58,
+      "source_citations": ["DOC-GST-002", "DOC-BANK-002"]
+    },
+    {
+      "finding_title": "End-of-Year Circular / Round-Trip Transaction Pattern",
+      "credit_transaction_id": "TXN-B-212",
+      "debit_transaction_id": "TXN-B-213",
+      "credit_amount": 800000.0,
+      "debit_amount": 790000.0,
+      "elapsed_hours": 24,
+      "source_citations": ["DOC-BANK-002"]
+    }
+  ]
+}

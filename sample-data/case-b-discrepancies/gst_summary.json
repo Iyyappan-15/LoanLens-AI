@@ -1,0 +1,21 @@
+{
+  "document_id": "DOC-GST-002",
+  "gstin": "33AABCA4321R1Z8",
+  "financial_year": "2025-2026",
+  "filing_frequency": "Monthly",
+  "total_reported_turnover": 5800000.0,
+  "monthly_turnover": [
+    {"month": "Apr-2025", "taxable_value": 480000.0, "tax_paid": 86400.0},
+    {"month": "May-2025", "taxable_value": 490000.0, "tax_paid": 88200.0},
+    {"month": "Jun-2025", "taxable_value": 500000.0, "tax_paid": 90000.0},
+    {"month": "Jul-2025", "taxable_value": 470000.0, "tax_paid": 84600.0},
+    {"month": "Aug-2025", "taxable_value": 510000.0, "tax_paid": 91800.0},
+    {"month": "Sep-2025", "taxable_value": 490000.0, "tax_paid": 88200.0},
+    {"month": "Oct-2025", "taxable_value": 520000.0, "tax_paid": 93600.0},
+    {"month": "Nov-2025", "taxable_value": 480000.0, "tax_paid": 86400.0},
+    {"month": "Dec-2025", "taxable_value": 460000.0, "tax_paid": 82800.0},
+    {"month": "Jan-2026", "taxable_value": 450000.0, "tax_paid": 81000.0},
+    {"month": "Feb-2026", "taxable_value": 470000.0, "tax_paid": 84600.0},
+    {"month": "Mar-2026", "taxable_value": 480000.0, "tax_paid": 86400.0}
+  ]
+}

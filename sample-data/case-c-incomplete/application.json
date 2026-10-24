@@ -1,0 +1,15 @@
+{
+  "case_id": "CASE-2026-003",
+  "applicant_name": "Sunrise Agro Commodities Traders",
+  "constitution": "Sole Proprietorship",
+  "industry": "Agricultural Grains Wholesale",
+  "vintage_years": 2,
+  "requested_loan_amount": 1500000.0,
+  "requested_tenure_months": 24,
+  "declared_annual_revenue": 3500000.0,
+  "existing_monthly_obligations": 20000.0,
+  "primary_bank_account": "SBI-33291048",
+  "gstin": "07AAAPS5432B1Z3",
+  "pan": "AAAPS5432B",
+  "status": "DOCUMENTS_UPLOADED"
+}

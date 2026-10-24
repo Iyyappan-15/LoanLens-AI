@@ -1,0 +1,26 @@
+{
+  "document_id": "DOC-BANK-002",
+  "account_number": "ICICI-00459201",
+  "bank_name": "ICICI Bank",
+  "statement_period": "01-Apr-2025 to 31-Mar-2026",
+  "total_credits": 4200000.0,
+  "total_debits": 4180000.0,
+  "closing_balance": 20000.0,
+  "inward_cheque_bounces": 4,
+  "outward_cheque_bounces": 1,
+  "transactions": [
+    {"transaction_id": "TXN-B-201", "date": "2025-04-10", "type": "CREDIT", "amount": 350000.0, "narration": "NEFT-CLIENT-TEX1", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-202", "date": "2025-05-18", "type": "CREDIT", "amount": 320000.0, "narration": "RTGS-FABRIC-BUYER-A", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-203", "date": "2025-06-25", "type": "CREDIT", "amount": 340000.0, "narration": "NEFT-CLIENT-TEX2", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-204", "date": "2025-07-14", "type": "CREDIT", "amount": 310000.0, "narration": "RTGS-GARMENTS-RECV", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-205", "date": "2025-08-20", "type": "CREDIT", "amount": 300000.0, "narration": "NEFT-EXPORTS-PAY", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-206", "date": "2025-09-12", "type": "CREDIT", "amount": 290000.0, "narration": "NEFT-FABRIC-BUYER-B", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-207", "date": "2025-10-15", "type": "CREDIT", "amount": 320000.0, "narration": "RTGS-CLIENT-TEX1", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-208", "date": "2025-11-22", "type": "CREDIT", "amount": 330000.0, "narration": "NEFT-GARMENTS-RECV", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-209", "date": "2025-12-19", "type": "CREDIT", "amount": 280000.0, "narration": "NEFT-FABRIC-BUYER-A", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-210", "date": "2026-01-24", "type": "CREDIT", "amount": 310000.0, "narration": "RTGS-EXPORTS-PAY", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-211", "date": "2026-02-18", "type": "CREDIT", "amount": 250000.0, "narration": "NEFT-CLIENT-TEX3", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-B-212", "date": "2026-03-28", "type": "CREDIT", "amount": 800000.0, "narration": "TRANSFER-FROM-DIRECTOR-SAVINGS-ACC", "category": "SUSPICIOUS_UNEXPLAINED_CREDIT"},
+    {"transaction_id": "TXN-B-213", "date": "2026-03-29", "type": "DEBIT", "amount": 790000.0, "narration": "TRANSFER-TO-RELATED-PARTY-VENTURE", "category": "SUSPICIOUS_ROUND_TRIP_DEBIT"}
+  ]
+}

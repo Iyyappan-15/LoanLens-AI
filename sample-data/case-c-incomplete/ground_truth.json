@@ -1,0 +1,20 @@
+{
+  "case_id": "CASE-2026-003",
+  "expected_risk_level": "INCOMPLETE_DATA",
+  "data_quality_score": 45,
+  "missing_documents": [
+    {
+      "document_type": "GST_RETURNS",
+      "mandatory": true,
+      "reason": "No GSTR-3B or GSTR-1 submitted for FY 2025-26."
+    },
+    {
+      "document_type": "BANK_STATEMENT_H1",
+      "mandatory": true,
+      "reason": "Missing statement for period 01-Apr-2025 to 30-Sep-2025 (only 6 months provided)."
+    }
+  ],
+  "policy_status": "BLOCKED_INSUFFICIENT_DATA",
+  "cam_recommendation": "REQUEST_ADDITIONAL_DOCUMENTS",
+  "notes": "System must not hallucinate missing turnover or debt ratios. Hard stop for missing mandatory 12-month statements."
+}
