@@ -1,0 +1,10 @@
+{
+  "case_id": "CASE-2026-001",
+  "expected_risk_level": "LOW",
+  "expected_discrepancies_count": 0,
+  "expected_anomalies_count": 0,
+  "reconciliation_variance_percentage": 1.18,
+  "policy_status": "PASS",
+  "cam_recommendation": "ELIGIBLE_FOR_UNDERWRITING_REVIEW",
+  "notes": "Healthy MSME turnover reconciliation; GST sales (59.2L) and Bank credits (58.5L) closely track declared revenue (60.0L)."
+}

@@ -1,0 +1,25 @@
+{
+  "document_id": "DOC-BANK-001",
+  "account_number": "HDFC-88219034",
+  "bank_name": "HDFC Bank",
+  "statement_period": "01-Apr-2025 to 31-Mar-2026",
+  "total_credits": 5850000.0,
+  "total_debits": 5120000.0,
+  "closing_balance": 730000.0,
+  "inward_cheque_bounces": 0,
+  "outward_cheque_bounces": 0,
+  "transactions": [
+    {"transaction_id": "TXN-A-101", "date": "2025-04-12", "type": "CREDIT", "amount": 480000.0, "narration": "NEFT-INW-AUTOMOTIVE CORP-INV441", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-102", "date": "2025-05-15", "type": "CREDIT", "amount": 510000.0, "narration": "RTGS-BHARAT FORGE-SETTLEMENT", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-103", "date": "2025-06-20", "type": "CREDIT", "amount": 495000.0, "narration": "NEFT-LMW TEXTILES-PAYMENT", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-104", "date": "2025-07-18", "type": "CREDIT", "amount": 520000.0, "narration": "RTGS-TATA MOTORS VENDOR-PAY", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-105", "date": "2025-08-14", "type": "CREDIT", "amount": 475000.0, "narration": "NEFT-SUNDARAM FASTENERS", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-106", "date": "2025-09-22", "type": "CREDIT", "amount": 505000.0, "narration": "NEFT-AUTOMOTIVE CORP-INV509", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-107", "date": "2025-10-19", "type": "CREDIT", "amount": 530000.0, "narration": "RTGS-MAHINDRA AUTO-SUPPLY", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-108", "date": "2025-11-15", "type": "CREDIT", "amount": 490000.0, "narration": "NEFT-BHARAT FORGE-PARTS", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-109", "date": "2025-12-18", "type": "CREDIT", "amount": 485000.0, "narration": "RTGS-LMW TEXTILES-INVOICE", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-110", "date": "2026-01-20", "type": "CREDIT", "amount": 470000.0, "narration": "NEFT-TATA MOTORS-VNDR", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-111", "date": "2026-02-14", "type": "CREDIT", "amount": 460000.0, "narration": "NEFT-SUNDARAM FASTENERS", "category": "BUSINESS_RECEIPT"},
+    {"transaction_id": "TXN-A-112", "date": "2026-03-25", "type": "CREDIT", "amount": 430000.0, "narration": "NEFT-AUTOMOTIVE CORP-FIN", "category": "BUSINESS_RECEIPT"}
+  ]
+}
